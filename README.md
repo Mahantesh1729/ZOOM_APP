@@ -1,6 +1,6 @@
 # ZOOM APP
 
-A SIMPLE Flutter project used to zoom in or zoom out text written.
+A Simple Flutter project used to zoom in or zoom out text written.
 
 ## Getting Started
 
